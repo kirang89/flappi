@@ -1,0 +1,9 @@
+*.pyc
+*~
+env/
+*.bk
+violations.flake8.txt
+.DS_Store
+.coverage
+.idea/
+*.db
